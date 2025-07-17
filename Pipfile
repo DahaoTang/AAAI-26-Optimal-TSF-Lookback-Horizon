@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "https://download.pytorch.org/whl/cu128"
+verify_ssl = true
+name = "pytorch-cuda"
+
+[packages]
+graphviz = "*"
+IPython = "*"
+jupyter = "*"
+numpy = "*"
+opencv-python = "*"
+pandas = "*"
+pillow = "*"
+pthflops = "*"
+
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+
+# torch = {version="*", index="pytorch-cuda"} 	# for cude devices
+# torchvision = {version = "*", index = "pytorch-cuda"}
+# torchaudio = {version = "*", index = "pytorch-cuda"}
+
+[dev-packages]
+
+[requires]
+python_version = "*"
