@@ -9,14 +9,22 @@ verify_ssl = true
 name = "pytorch-cuda"
 
 [packages]
+arch = "*"
 graphviz = "*"
 IPython = "*"
 jupyter = "*"
+matplotlib = "*"
+nolds = "*"
 numpy = "*"
 opencv-python = "*"
 pandas = "*"
 pillow = "*"
 pthflops = "*"
+pygam = "*"
+pyinform = "*"
+scikit-learn = "*"
+seaborn = "*"
+statsmodels = "*"
 
 torch = "*"
 torchvision = "*"
