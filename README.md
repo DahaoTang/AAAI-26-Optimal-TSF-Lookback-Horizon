@@ -1,5 +1,7 @@
-# Optimal Look-Back Horizon of TSF in Federated Learning
+# Optimal Look-back Horizon for Time Series Forecasting in Federated Learning
 
-This repo contains code for _Optimal Look-Back Horizon of TSF in Federated Learning_
+This repo contains code for _Optimal Look-back Horizon for Time Series Forecasting in Federated Learning_
 
-The datasets are downloaded from: [GDrive](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy)
+This work has been accepted by **_AAAI-26 as an oral presentation_**.
+
+Full paper can be downloaded from [arXiv](https://arxiv.org/abs/2511.12791).
